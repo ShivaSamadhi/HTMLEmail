@@ -1,0 +1,20 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.bg-white {
+    background-color: #FFFFFF;
+    color: #58585A;
+}
+
+.bg-brown {
+    background-color: #F8F7F0;
+    color: #58585A;
+}
+
+.bg-gray {
+    background-color: #58585A;
+    color: #FFFFFF;
+}
+
+/*Set the background color and the font color for readability*/
