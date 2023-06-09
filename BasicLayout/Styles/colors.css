@@ -1,5 +1,5 @@
 body {
-    background-color: #f4f4f4;
+    background-color: #F4F4F4;
 }
 
 .bg-white {
@@ -18,7 +18,17 @@ body {
 }
 
 .bg-red {
-    background-color: #dc143c;
-    color: #000000
+    background-color: #C92C1E;
+    color: #FFFFFF;
+}
+
+.bg-blue {
+    background-color: #2879CB;
+    color: #FFFFFF;
+}
+
+.bg-dark-brown {
+    background-color: #E8E3CE;
+    color: #58585A;
 }
 /*Set the background color and the font color for readability*/
