@@ -17,4 +17,8 @@ body {
     color: #FFFFFF;
 }
 
+.bg-red {
+    background-color: #dc143c;
+    color: #000000
+}
 /*Set the background color and the font color for readability*/
