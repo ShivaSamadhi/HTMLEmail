@@ -1,0 +1,18 @@
+.container600 {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.cols .w33p {
+    width: 33%;
+    float: left;
+}
+
+.cols .w66p {
+    width: 66%;
+    float: right
+}
+
+.clr {
+    clear: both;
+}
