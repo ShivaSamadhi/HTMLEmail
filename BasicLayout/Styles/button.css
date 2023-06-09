@@ -19,3 +19,12 @@
 
     transition: all .5s;
 }
+@media all and (max-width: 599px) {
+    .button {
+        display: block;
+        margin: 30px 50px;
+        padding: 20px;
+
+        text-align: center;
+    }
+}
